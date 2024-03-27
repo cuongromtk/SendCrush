@@ -1,7 +1,7 @@
 const CONFIG = {
     title: 'Làm bạn gái anh nha 😙',
     desc: 'Phải chăng em đã yêu and ngay từ cái nhìn đầu tiên =))',
-    btnYes: 'Em nguyện ý làm bạn gái của anh <33',
+    btnYes: 'Em nguyện ý làm bàn gái của anh <33',
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
